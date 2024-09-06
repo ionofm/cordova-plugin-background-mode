@@ -1,5 +1,8 @@
 ## ChangeLog
 
+#### Version 0.7.11 (06.09.2024)
+- [bugfix:] Revert back to mediaPlayback
+
 #### Version 0.7.10 (25.06.2024)
 - [bugfix:] Fix foreground type dataSync
 
